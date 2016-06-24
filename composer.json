@@ -1,5 +1,5 @@
 {
-	"name": "frolki1-dev/google-authenticator",
+	"name": "frolki1-dev/php-google-authenticator",
 	"description": "Google Authenticator for PHP",
 	"homepage": "https://github.com/Frolki1-Dev/PHP-Google-Authenticator",
 	"type": "library",
